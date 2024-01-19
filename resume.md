@@ -16,9 +16,11 @@ using R-Studio programming and QGIS mapping and am comfortable working in bothMa
 
 # Education 
 
-## The University of Washington (Bellevue, Washington) - 2021 - present
+## The University of Washington (Seattle, Washington) - 2021 - present
+> Currently studying Geography: Data Science
 
 ## Bellevue College (Bellevue, Washington) 2019-21
+> Got an AA in the Arts and Sciences
 
 # Work Experience
 
