@@ -1,17 +1,15 @@
 # Caden Henson
 
+## Personal Links & Info
 Email: cth23@uw.edu
-
-http://www.linkedin.com/in/caden-henson
+LinkedIN: http://www.linkedin.com/in/caden-henson
+Instagram: https://www.instagram.com/cadenxhenson/
 
 # Summary
 > Here is a quick summary of some of my qualifications and skills.
 
 My name is Caden Henson and I am senior currently enrolled at the University of Washington studying Geography and Data Science. I have proficient skills working in data analysis
 using R-Studio programming and QGIS mapping and am comfortable working in bothMac OS X and Microsoft Windows 10. I have exceptional communication, interpersonal, and collaborative skills and have reliable problem-solving abilities under pressure. 
-
-
-
 
 
 # Education 
@@ -41,5 +39,8 @@ using R-Studio programming and QGIS mapping and am comfortable working in bothMa
 ## Dean's List / The University of Washington - December 2022
 > Completed 12 or more letter-graded units during the quarter with a 3.8 GPA, working closely with both professors and assistants to complete various assigned tasks and projects.
 
+## Student Image
 ![5E7A551C-4810-4CC7-9355-32CF15B36EB0](https://github.com/CadenTY/CadenTY.github.io/assets/97286724/913f128e-dafb-4102-a7a5-214da2434b48)
+
+
 
