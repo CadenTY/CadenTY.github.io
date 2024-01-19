@@ -1,8 +1,8 @@
 # Caden Henson
 
-cth23@uw.edu
+Email: cth23@uw.edu
 
-http://www.linkedin.com/in/cadenhenson
+http://www.linkedin.com/in/caden-henson
 
 # Summary
 
