@@ -1,9 +1,9 @@
 # Caden Henson
 
 ## Personal Links & Info
-* Email: cth23@uw.edu
-* LinkedIN: http://www.linkedin.com/in/caden-henson
-* Instagram: https://www.instagram.com/cadenxhenson/
+* | Email: cth23@uw.edu | 
+* LinkedIN: http://www.linkedin.com/in/caden-henson | 
+* Instagram: https://www.instagram.com/cadenxhenson/ | 
 
 # Summary
 > Here is a quick summary of some of my qualifications and skills.
