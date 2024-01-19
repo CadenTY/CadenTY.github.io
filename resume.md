@@ -6,7 +6,7 @@ http://www.linkedin.com/in/caden-henson
 
 # Summary
 
-My name is Caden Henson and I am senior currently enrolled at the University of Washington studying Geography and Data Science. I have proficient skills working in data analysis using R-Studio programming and QGIS mapping and am comfortable working in both Mac OS X and Microsoft Windows 10. I have exceptional communication, interpersonal, and collaborative skills and have reliable problem-solving abilities under pressure. 
+> My name is Caden Henson and I am senior currently enrolled at the University of Washington studying Geography and Data Science. I have proficient skills working in data analysis using R-Studio programming and QGIS mapping and am comfortable working in both Mac OS X and Microsoft Windows 10. I have exceptional communication, interpersonal, and collaborative skills and have reliable problem-solving abilities under pressure. 
 
 # Education 
 
