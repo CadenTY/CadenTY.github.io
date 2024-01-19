@@ -41,6 +41,4 @@ using R-Studio programming and QGIS mapping and am comfortable working in bothMa
 ## Dean's List / The University of Washington - December 2022
 > Completed 12 or more letter-graded units during the quarter with a 3.8 GPA, working closely with both professors and assistants to complete various assigned tasks and projects.
 
-
-(https://www.instagram.com/p/Ca-dEG8P46W/?img_index=1)
-
+![5E7A551C-4810-4CC7-9355-32CF15B36EB0](https://github.com/CadenTY/CadenTY.github.io/assets/97286724/011c6849-02d8-4bd8-934d-3d0a413cac62)
